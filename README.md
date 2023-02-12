@@ -1,2 +1,2 @@
 # Resume
-heres all of my resume
+resume related files 
